@@ -27,5 +27,12 @@ This project demonstrates the use of ASP.NET server controls, validation control
 
 ---
 
+## 👨‍💻 Author  
+
+**Parth Dubey**  
+💻 Full Stack .NET Developer | Aspiring Web Developer  
+🌐 [GitHub Profile](https://github.com/parthdubeydev)  
+🔗 [LinkedIn](https://www.linkedin.com/in/parthdubeydev)  
+
 
 
